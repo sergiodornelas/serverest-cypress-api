@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+cypress/videos
+cypress/screenshots
+
+# documentação (não formatar)
+*.md
+LICENSE

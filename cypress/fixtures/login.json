@@ -1,0 +1,6 @@
+{
+  "invalido": {
+    "email": "naoexiste@qa.com",
+    "password": "senhaErrada"
+  }
+}
